@@ -1,2 +1,3 @@
 This is the text added to the file now 
 this is the second line added to the file on github
+this is the third line added on github to check if autosync is working or not
